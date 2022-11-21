@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+## Learn new documentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can learn more in the [React Beta documentation](https://beta.reactjs.org/learn/conditional-rendering#conditionally-returning-jsx).
+
+# Control Props
+tomado de React pro lleva las bases al siguiente nivel
+
+# Eliminación mediante desestructuración 
+
+Aqui puedes ver algunos ejemplos [ eliminacón dinámicamente](https://todoxampp.com/como-eliminar-una-propiedad-de-un-objeto-javascript/).
+
+
+# Mapeo de un objeto
+   Object.entries(shoppingCart).map( ([ ]) => ()  )
+  Me permite obtener las entradas de un objeto. Esto me va a permitir a mí poder pasarlo por un mapa.
+  Returns an array of key/values of the enumerable properties of an object
+[ Aqui puedes ver algunos ejemplos(https://dev.to/duxtech/5-maneras-de-iterar-un-objeto-en-javascript-jkn) ]
+    Tomado de https://www.udemy.com/course/react-pro/learn/lecture/28642766?start=135#questions
 
 ## Available Scripts
 
@@ -39,8 +54,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).

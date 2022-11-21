@@ -16,3 +16,14 @@
     border-color: white;
     color: whitesmoke;
 }
+
+.shoping-cart {
+    position: fixed;
+    right: 10px;
+    top: 0;
+}
+
+.myTsPage a:link {
+  text-decoration: none;
+  color: whitesmoke;
+}
